@@ -1,0 +1,2 @@
+var SmartContractABI = "";
+var SmartContractAddress = "";
