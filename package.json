@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/alisidaniel/Etherum-Dapp/issues"
   },
-  "homepage": "https://github.com/alisidaniel/Etherum-Dapp#readme"
+  "homepage": "https://github.com/alisidaniel/Etherum-Dapp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
